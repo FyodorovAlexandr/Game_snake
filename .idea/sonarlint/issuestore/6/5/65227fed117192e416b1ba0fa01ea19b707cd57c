@@ -1,0 +1,15 @@
+
+?
+java:S1948"#Make "s" transient or serializable.(±°¦8ÓÔáú´.
+t
+java:S1104
+"RMake jFrame a static final constant or non-public and provide accessors if needed.(ç»Ôµÿÿÿÿÿ8íÕŒñ´.
+N
+java:S1444
+",Make this "public static jFrame" field final(ç»Ôµÿÿÿÿÿ8íÕŒñ´.
+s
+java:S1104"QMake speed a static final constant or non-public and provide accessors if needed.(éä‡—üÿÿÿÿ8’Å‹û´.
+M
+java:S1444"+Make this "public static speed" field final(éä‡—üÿÿÿÿ8’Å‹û´.
+W
+java:S1161":Add the "@Override" annotation above this method signature(¶øÂÁ8·¨Åñ´.
